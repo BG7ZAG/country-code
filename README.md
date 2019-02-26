@@ -6,7 +6,7 @@
 {
     "en": "Angola",
     "cn": "安哥拉",
-    "code": "+0244"
+    "code": "+244"
 },
 {
     "en": "Afghanistan",
@@ -491,7 +491,7 @@
 {
     "en": "Liechtenstein",
     "cn": "列支敦士登",
-    "code": "+"
+    "code": "+423"
 },
 {
     "en": "Lithuania",
