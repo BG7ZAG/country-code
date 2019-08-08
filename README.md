@@ -1,6 +1,6 @@
 # country-code
 国际国家中英文名称及地区 区号JSON格式
-[country-code.json](https://github.com/hlbj105/country-code/releases/download/1.0.0/country-code.json)
+[country-code.json](https://github.com/hlbj105/country-code/archive/1.0.1.zip)
 ```
 [
 {
