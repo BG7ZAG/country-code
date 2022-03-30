@@ -459,12 +459,12 @@
         "code": "+962"
     },
     {
-        "en": "Kampuchea (Cambodia )",
+        "en": "Cambodia",
         "cn": "柬埔寨",
         "code": "+855"
     },
     {
-        "en": "Kazakstan",
+        "en": "Kazakhstan",
         "cn": "哈萨克斯坦",
         "code": "+327"
     },
