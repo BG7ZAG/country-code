@@ -1,7 +1,9 @@
 # country-code
+
 国际国家中英文名称及地区 区号JSON格式
-[country-code.json](https://github.com/hlbj105/country-code/archive/1.0.1.zip)
-```
+[country-code.json](./country-code.json)
+
+```json
 [
     {
         "en": "Angola",
@@ -744,11 +746,6 @@
         "code": "+7"
     },
     {
-        "en": "Saint Lueia",
-        "cn": "圣卢西亚",
-        "code": "+1758"
-    },
-    {
         "en": "Saint Vincent",
         "cn": "圣文森特岛",
         "code": "+1784"
@@ -834,7 +831,7 @@
         "code": "+94"
     },
     {
-        "en": "St.Lucia",
+        "en": "Saint Lucia",
         "cn": "圣卢西亚",
         "code": "+1758"
     },
