@@ -23,7 +23,7 @@
     {
         "en": "Albania",
         "cn": "阿尔巴尼亚",
-        "code": "+335"
+        "code": "+355"
     },
     {
         "en": "Algeria",
