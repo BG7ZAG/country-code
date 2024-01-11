@@ -468,7 +468,7 @@
     {
         "en": "Kazakhstan",
         "cn": "哈萨克斯坦",
-        "code": "+327"
+        "code": "+7"
     },
     {
         "en": "Kenya",
